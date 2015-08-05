@@ -16,5 +16,6 @@ gửi code với highlight syntax. code nho nhỏ cho những ai đang viết bl
 	$tbname = "sharecode"; // tên bảng
 	
 4. thay đổi menu ở menu.php và index.php
+
 Do không biết về php nhiều nên viết code có lộn xộn, khó hiểu. Mong mọi người thông cảm :D
 web demo: http://sendcode.tutsmodel.info/
